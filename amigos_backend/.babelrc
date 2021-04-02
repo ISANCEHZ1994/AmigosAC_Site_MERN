@@ -1,0 +1,6 @@
+{
+    "presets": [
+        "env",
+        "stage-0" // when we installed stage 0 it includes all the recent changes to the language such as ES 2019 
+    ]
+}
